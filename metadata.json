@@ -1,0 +1,7 @@
+{
+  "name": "SkillSetter",
+  "description": "India's first AI-powered personalized learning path generator aligned with NSQF and real-time labor market demand.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
